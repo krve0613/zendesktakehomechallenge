@@ -1,0 +1,11 @@
+com/zendesk/zd/searchChallenge/SpringSearchChallengeApplication.class
+com/zendesk/zd/searchChallenge/api/User.class
+com/zendesk/zd/searchChallenge/solution/SearchSvcImpl$1.class
+com/zendesk/zd/searchChallenge/solution/SearchSvcImpl.class
+com/zendesk/zd/searchChallenge/api/Ticket.class
+com/zendesk/zd/searchChallenge/solution/SearchSvcImpl$2.class
+com/zendesk/zd/searchChallenge/solution/SearchSvcImpl$3.class
+com/zendesk/zd/searchChallenge/solution/SearchRestControllerImpl.class
+com/zendesk/zd/searchChallenge/api/Organization.class
+com/zendesk/zd/searchChallenge/api/SearchSvcInterface.class
+com/zendesk/zd/searchChallenge/springConfiguration/SearchConfiguration.class
